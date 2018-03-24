@@ -2,8 +2,6 @@
 namespace Task\Models;
 
 use Task\Contracts\BaseModel;
-
-use Task\Connections\MysqlConnection;
 use Task\Models\JobAction;
 
 class Job extends BaseModel

@@ -1,7 +1,6 @@
 <?php 
 namespace Task\Traits;
 
-use Task\Contracts\ConnectionInterface;
 use Task\Connections\ConnectionFactory;
 use Task\Connections\MysqlConnection;
 use \Exception;

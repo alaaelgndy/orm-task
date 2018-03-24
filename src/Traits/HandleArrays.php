@@ -1,7 +1,5 @@
 <?php 
-
 namespace Task\Traits;
-
 
 trait HandleArrays
 {

@@ -3,8 +3,6 @@ namespace Task\Models;
 
 use Task\Contracts\BaseModel;
 
-use Task\Connections\MysqlConnection;
-
 class JobAction extends BaseModel
 {
 	protected $table = "actions";

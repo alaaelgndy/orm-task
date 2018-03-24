@@ -1,0 +1,8 @@
+{
+    "name": "elgndy/wazzaf",
+    "autoload" : {
+        "psr-4" : {
+            "Task\\" : "src/"
+        }
+    }
+}
